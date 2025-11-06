@@ -2,8 +2,9 @@ img {
     width: 200px;
 }
 body {
-       text-align: centre;
+       text-align: center;
        font-family: 'Arial';
        background: rgb(0, 255, 255);
        color: purple;
+
 }
